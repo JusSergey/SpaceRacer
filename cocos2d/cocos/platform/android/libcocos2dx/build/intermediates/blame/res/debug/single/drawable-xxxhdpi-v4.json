@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/powered_by_google_light.png",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable-xxxhdpi-v4/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/powered_by_google_dark.png",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable-xxxhdpi-v4/powered_by_google_dark.png"
+    }
+]

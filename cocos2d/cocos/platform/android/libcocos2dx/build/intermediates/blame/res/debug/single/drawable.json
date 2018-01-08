@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/heart/CocosProjects/SpaceRacer/cocos2d/cocos/platform/android/java/libs/gps/build/intermediates/bundles/default/res/drawable/common_google_signin_btn_text_light.xml"
+    }
+]
